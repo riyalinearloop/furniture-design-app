@@ -1,0 +1,13 @@
+.backgroundImage {
+    width: 100%;
+    /* Set the width of the div */
+    height: 800px;
+    /* Set the height of the div */
+    background-image: url('/images/bgImage.png');
+    /* Path to your image */
+    background-size: cover;
+    /* Ensure the image covers the whole div */
+    // background-position: center;
+    /* Center the image */
+    background-repeat: no-repeat;
+}
